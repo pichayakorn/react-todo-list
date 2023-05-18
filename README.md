@@ -1,10 +1,10 @@
 # React TODO List
 
-> ✨ React Project - TODO List Application by Web Dev Simplified
+✨ React Project - TODO List Application by [Web Dev Simplified](https://github.com/WebDevSimplified/react-todo-list)
 
 ## Available Scripts
 
-### npm dev
+### npm run dev
 
 Runs the app in the development mode.
 Open http://localhost:5173 to view it in the browser.
